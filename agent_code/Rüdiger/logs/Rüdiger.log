@@ -1,0 +1,563 @@
+2023-09-24 22:25:01,589 [Rüdiger_code] INFO: Loading model from saved state.
+2023-09-24 22:25:01,915 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:01,980 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:02,005 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,070 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,104 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,188 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,214 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,296 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,321 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,401 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,414 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,498 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,524 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,566 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,615 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,650 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,715 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,750 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,823 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,884 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:02,921 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:02,993 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,023 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,114 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,141 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,232 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,259 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,349 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,377 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,458 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,475 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,510 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,576 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,613 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,677 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,713 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,783 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,845 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,881 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:03,943 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:03,981 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,037 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,075 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,118 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,175 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,222 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,274 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,326 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,375 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,426 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,475 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,522 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,576 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,617 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,676 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,710 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,782 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,845 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,882 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:04,943 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:04,982 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,073 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,099 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,191 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,220 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,326 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,354 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,462 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,491 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,574 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,605 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,668 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,698 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,733 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,797 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,833 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,897 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:05,941 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:05,997 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,059 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,096 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,170 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,202 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,310 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,340 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,434 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,462 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,526 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,557 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,594 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,657 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,694 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,757 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,801 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,856 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:06,911 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:06,956 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,012 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,061 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,130 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,157 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,200 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,258 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,293 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,358 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,396 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,458 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,505 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,557 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,637 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,656 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,700 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,757 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,803 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,857 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,894 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:07,957 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:07,994 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,057 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,118 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,162 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,244 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,265 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,328 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,362 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,429 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,461 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,506 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,561 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,598 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,662 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,708 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,762 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,809 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,863 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:08,909 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:08,964 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,018 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:09,067 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,130 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:09,163 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,197 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:09,262 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,300 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:09,362 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,407 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:09,466 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,532 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:09,562 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,607 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:09,662 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,706 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:09,767 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,830 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:09,868 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:09,906 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:09,962 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,001 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,066 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,139 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,162 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,217 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,262 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,316 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,366 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,434 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,463 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,582 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,592 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,633 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:10,697 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,759 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,798 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,852 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:10,892 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:10,927 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:10,991 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,033 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:11,091 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,130 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:11,191 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,241 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:11,292 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,340 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:11,392 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,441 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:11,492 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,552 [Rüdiger_code] INFO: Doing Action: 0
+2023-09-24 22:25:11,596 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,681 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:11,698 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,767 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:11,794 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,841 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:11,895 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:11,931 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:11,994 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,047 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,095 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,159 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,200 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,279 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,294 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,343 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,395 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,431 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,495 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,533 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,596 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,632 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,695 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,733 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,794 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,834 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,896 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:12,934 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:12,995 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:13,037 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:13,095 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:13,142 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:13,195 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:13,242 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:13,295 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:13,341 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:13,399 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:13,462 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:15,512 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:15,575 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:15,608 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:15,676 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:15,709 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:15,778 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:15,800 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:15,848 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:15,901 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:15,949 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,001 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,050 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,102 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,136 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,202 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,237 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,302 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,339 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,403 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,438 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,501 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,541 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,601 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,649 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,701 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,745 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,801 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,847 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:16,901 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:16,945 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,009 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,072 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,102 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,146 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,201 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,246 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,302 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,345 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,401 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,444 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,501 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,536 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,602 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,641 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,708 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,783 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,802 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,853 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:17,902 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:17,952 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,002 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,056 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,102 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,147 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,203 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,239 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,303 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,340 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,403 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,448 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,502 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,545 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,602 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,646 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,702 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,746 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,802 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,846 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:18,903 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:18,947 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,002 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,051 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,102 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,147 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,202 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,237 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,302 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,357 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,403 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,455 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,504 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,555 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,602 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,656 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,704 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,740 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,803 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,840 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:19,904 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:19,940 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,004 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,076 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,103 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,160 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,203 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,251 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,303 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,346 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,404 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,450 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,504 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,550 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,610 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,687 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,703 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,754 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,803 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,849 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:20,903 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:20,949 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:21,003 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:21,053 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:21,104 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:21,143 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:21,204 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:21,250 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:21,304 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:21,350 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:21,404 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:21,450 [Rüdiger_code] INFO: Doing Action: 3
+2023-09-24 22:25:21,907 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:21,951 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,007 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,049 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,107 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,153 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,207 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,256 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,306 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,352 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,407 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,455 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,508 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,544 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,607 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,644 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,707 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,744 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,807 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,844 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:22,907 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:22,945 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,008 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,049 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,108 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,167 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,213 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,287 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,314 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,383 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,407 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,455 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,507 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,554 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,607 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,653 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:23,913 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:23,956 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:24,009 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,049 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,108 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,156 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,208 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,256 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,311 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,359 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,409 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,458 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,517 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,580 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,616 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,678 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,716 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,778 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,817 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,877 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:24,908 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:24,948 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:25,009 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,086 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:25,109 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,162 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:25,208 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,258 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:25,309 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,392 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:25,422 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,484 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:25,825 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,888 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:25,913 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:25,965 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,016 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,056 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,113 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,154 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,214 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,262 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,313 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,361 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,415 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,457 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,514 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,560 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,615 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,652 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,714 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,753 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,814 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,857 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:26,915 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:26,959 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,017 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,060 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,120 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,191 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,220 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,293 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,321 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,393 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,422 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,493 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,522 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,605 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,634 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,704 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,727 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,774 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:27,827 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:27,876 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:28,239 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,303 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,335 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,396 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,435 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,520 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,544 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,629 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,653 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,738 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,761 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,845 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,870 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:28,930 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:28,962 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,029 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,070 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,131 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,171 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,244 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,268 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,314 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,362 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,410 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,462 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,512 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,563 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,636 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,671 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:29,742 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:29,975 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,029 [Rüdiger_code] INFO: Doing Action: 2
+2023-09-24 22:25:30,063 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,099 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,163 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,210 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,263 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,312 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,363 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,410 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,469 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,528 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,572 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,626 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,670 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,734 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,772 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,834 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,872 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:30,933 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:30,970 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,027 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,063 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,104 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,163 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,208 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,263 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,309 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,363 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,409 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,471 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,538 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,564 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,607 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,664 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,708 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:31,765 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:31,803 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,075 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,137 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,172 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,234 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,272 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,355 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,370 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,416 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,470 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,514 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,577 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,660 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,685 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,745 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,777 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,813 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,886 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:32,949 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:32,985 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,029 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,076 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,115 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,176 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,217 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,277 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,323 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,377 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,426 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,476 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,522 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,577 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,623 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,678 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,731 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,777 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,813 [Rüdiger_code] INFO: Doing Action: 1
+2023-09-24 22:25:33,877 [Rüdiger_code] DEBUG: Querying model for action.
+2023-09-24 22:25:33,914 [Rüdiger_code] INFO: Doing Action: 1

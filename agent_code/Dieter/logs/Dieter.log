@@ -1,0 +1,31 @@
+2023-09-30 21:32:28,172 [Dieter_code] INFO: Loading model from saved state.
+2023-09-30 21:32:28,279 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:28,319 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:28,324 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:28,326 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:28,328 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:28,331 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:28,334 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:28,336 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:28,339 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:28,342 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:30,631 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:30,634 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:30,638 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:30,641 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:30,643 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:30,646 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:30,649 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:30,651 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:30,654 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:30,656 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:31,782 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:31,785 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:31,789 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:31,791 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:31,794 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:31,796 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:31,799 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:31,801 [Dieter_code] INFO: Doing Action: 5
+2023-09-30 21:32:31,805 [Dieter_code] DEBUG: Querying model for action.
+2023-09-30 21:32:31,807 [Dieter_code] INFO: Doing Action: 5
